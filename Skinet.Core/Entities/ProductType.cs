@@ -1,5 +1,5 @@
 ﻿namespace Skinet.Core.Entities;
 
-public class ProductType:BaseEntity
+public class ProductType : BaseEntity
 {
 }
